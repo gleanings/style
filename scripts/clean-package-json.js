@@ -66,15 +66,15 @@ packageJson = {
     './styles/reset.css': './styles/reset.css',
   },
   keywords: ['style', 'mudbean', 'vvi'],
-  homepage: 'https://npm.lmssee.com/style',
+  homepage: 'https://npms.gleanings.cn/style',
   dependencies: dependencies,
   bugs: {
-    url: 'https://github.com/MrMudBean/style/issues',
+    url: 'https://github.com/gleanings/style/issues',
     email: 'Mr.MudBean@outlook.com',
   },
   repository: {
     type: 'git',
-    url: 'git+https://github.com/MrMudBean/style.git',
+    url: 'git+https://github.com/gleanings/style.git',
   },
   publishConfig: {
     access: 'public',
